@@ -7,3 +7,7 @@
  Steganography hides data within other data.  It's a powerful technique for covert communication. This article explores its methods and real-world applications, including a fascinating case study. Discover the art of invisible messaging!
 - [Hiding in Plain Sight: The Art of Steganography](https://oactestram.github.io/tech-blogs/articles/hiding-in-plain-sight--the-art-of-steganography)
  Steganography hides secret messages within innocent-looking files.  It's a powerful tool for covert communication, used for both good and ill. This article explores its techniques, applications, and risks. Learn how data can be hidden and retrieved.
+
+    - [Hiding in Plain Sight: The Art of Steganography](https://oactestram.github.io/tech-blogs/articles/hiding-in-plain-sight--the-art-of-steganography)
+      <img src="https://www.sdsolutionsllc.com/wp-content/uploads/2015/12/Steganography-1024x768.png" alt="Hiding in Plain Sight: The Art of Steganography" width="400">
+      Steganography hides secret data within innocent-looking files.  It's different from cryptography; it conceals *existence* rather than just encrypting content.  Applications range from covert communication to watermarking.  Risks involve detection and vulnerability to attacks.
