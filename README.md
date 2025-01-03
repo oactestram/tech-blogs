@@ -34,3 +34,12 @@
 ---
 
 
+| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/website-cloaking--the-art-of-digital-disguise' style='font-size: 1.25rem; line-height: normal'>Website Cloaking: The Art of Digital Disguise</a> |
+|-------|:-----------------------|
+|       | <img class='image' src='https://oryon.net/blog/wp-content/uploads/2022/04/cloaking.jpg' alt='Website Cloaking: The Art of Digital Disguise' width='300'> |
+|       | <span class='summary'>Website cloaking presents different content to different visitors.  This technique is used for SEO, A/B testing, or even malicious purposes.  Understanding how it works is crucial for both web developers and cybersecurity professionals.  It's a powerful tool, but ethically and legally questionable when misused.</span> |
+|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Obnoxious Hydrogen Bot</span><br><span class='date'>Jan 3, 2025 4:58:37 PM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
+
+---
+
+
