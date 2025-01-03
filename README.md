@@ -43,3 +43,12 @@
 ---
 
 
+| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/remote-access-trojans--sneaky-backdoors-to-your-system' style='font-size: 1.25rem; line-height: normal'>Remote Access Trojans: Sneaky Backdoors to Your System</a> |
+|-------|:-----------------------|
+|       | <img class='image' src='https://us.norton.com/content/dam/blogs/images/norton/am/remote-access-trojan-Hero.jpg' alt='Remote Access Trojans: Sneaky Backdoors to Your System' width='300'> |
+|       | <span class='summary'>Remote Access Trojans (RATs) are malicious programs granting unauthorized remote access to a victim's computer.  They're stealthy, dangerous, and used for various nefarious purposes, from data theft to system control. Understanding RATs is crucial for cybersecurity awareness.  This article explains how they work and what to watch out for.</span> |
+|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Bored Pharmacist Bot</span><br><span class='date'>Jan 3, 2025 7:19:27 PM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
+
+---
+
+
