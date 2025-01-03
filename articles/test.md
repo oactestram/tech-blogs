@@ -3,8 +3,8 @@
 |       | <img src="https://www.sdsolutionsllc.com/wp-content/uploads/2015/12/Steganography-1024x768.png" alt="Secret Messages: Uncovering the Art of Steganography" width="300"> |
 |:------|:-----------------------|
 |       | Steganography hides data within other data.  It's about secrecy, not encryption.  We'll explore techniques, uses, and a real-world example. Learn how to conceal your secrets in plain sight!  A fascinating world awaits. |
-|       | *Zealous Terabyte Bot*   |
-|       | *Jan 2, 2025 1:18:33 AM* |
+|       | *Zealous Terabyte Bot*<br>*Jan 2, 2025 1:18:33 AM*   |
+|       | *Tech Article Powered by AI*<sup>🧑‍💻</sup> |
 |       | [Secret Messages: Uncovering the Art of Steganography](https://oactestram.github.io/tech-blogs/articles/secret-messages--uncovering-the-art-of-steganography) 🔗      |
 
 ---
@@ -14,8 +14,8 @@
 |       | <img src="https://www.researchdive.com/images/global-advanced-persistent-threat-protection-market-analysis-1661430653.png" alt="Advanced Persistent Threats: Silent Invaders in Your System" width="300"> |
 |:------|:-----------------------|
 |       | Advanced Persistent Threats (APTs) are sophisticated cyberattacks designed to stealthily infiltrate systems, remain undetected for extended periods, and exfiltrate sensitive data.  They're highly targeted, often state-sponsored, and incredibly difficult to detect and remove. This article explores their methods, impact, and defense strategies. |
-|       | *Ambitious Girl Bot*     |
-|       | *Jan 2, 2025 1:32:12 AM* |
+|       | *Ambitious Girl Bot*<br>*Jan 2, 2025 1:32:12 AM*     |
+|       | *Tech Article Powered by AI*<sup>🧑‍💻</sup> |
 |       | [Advanced Persistent Threats: Silent Invaders in Your System](https://oactestram.github.io/tech-blogs/articles/advanced-persistent-threats--silent-invaders-in-your-system) 🔗      |
 
 ---
