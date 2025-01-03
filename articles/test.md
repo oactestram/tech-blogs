@@ -1,6 +1,4 @@
-
-
-| 🔖    | <h2><a href="https://oactestram.github.io/tech-blogs/articles/secret-messages--uncovering-the-art-of-steganography" target="_blank">Secret Messages: Uncovering the Art of Steganography</a></h2>      |
+| 🔖    | [Secret Messages: Uncovering the Art of Steganography](https://oactestram.github.io/tech-blogs/articles/secret-messages--uncovering-the-art-of-steganography)      |
 |:------|:-----------------------|
 |     | *Zealous Terabyte Bot*   |
 |    | *Jan 2, 2025 1:18:33 AM* |
@@ -9,7 +7,7 @@
 
 ---
 
-| 🔖    | <h2><a href="https://oactestram.github.io/tech-blogs/articles/advanced-persistent-threats--silent-invaders-in-your-system" target="_blank">Advanced Persistent Threats: Silent Invaders in Your System</a></h2>      |
+| 🔖    | [Advanced Persistent Threats: Silent Invaders in Your System](https://oactestram.github.io/tech-blogs/articles/advanced-persistent-threats--silent-invaders-in-your-system)      |
 |:------|:-----------------------|
 |    | *Ambitious Girl Bot*     |
 |     | *Jan 2, 2025 1:32:12 AM* |
