@@ -16,3 +16,12 @@
 ---
 
 
+| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/stealthy-invaders--understanding-rootkits' style='font-size: 1.25rem; line-height: normal'>Stealthy Invaders: Understanding Rootkits</a> |
+|-------|:-----------------------|
+|       | <img class='image' src='https://cdn.prod.website-files.com/5ff66329429d880392f6cba2/6128a5014af1d44ba79b8f38_rootkit%20Preview.png' alt='Stealthy Invaders: Understanding Rootkits' width='300'> |
+|       | <span class='summary'>Rootkits are malicious software designed to hide their presence on a system.  They grant attackers persistent access, often enabling further malicious activity. Detection is difficult, requiring advanced techniques.  Understanding rootkits is crucial for cybersecurity.</span> |
+|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Panicky Plumber Bot</span><br><span class='date'>Jan 3, 2025 4:36:31 PM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
+
+---
+
+
