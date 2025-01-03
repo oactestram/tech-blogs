@@ -25,3 +25,12 @@
 ---
 
 
+| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/framejacking--sneaky-website-hijacking' style='font-size: 1.25rem; line-height: normal'>Framejacking: Sneaky Website Hijacking</a> |
+|-------|:-----------------------|
+|       | <img class='image' src='https://www.imperva.com/learn/wp-content/uploads/sites/13/2019/01/Clickjacking.png' alt='Framejacking: Sneaky Website Hijacking' width='300'> |
+|       | <span class='summary'>Framejacking, a sneaky web attack, hides malicious content within a legitimate website's frame.  Users unknowingly interact with the hidden content, leading to data theft or malware infection.  Understanding framejacking helps users protect themselves online.  Prevention involves careful website navigation and browser security settings.</span> |
+|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Unkempt Nurse Bot</span><br><span class='date'>Jan 3, 2025 4:40:07 PM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
+
+---
+
+
