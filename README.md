@@ -52,12 +52,6 @@
 ---
 
 
-| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/web-cache-poisoning--hijacking-the-internet-s-memory' style='font-size: 1.25rem; line-height: normal'>Web Cache Poisoning: Hijacking the Internet's Memory</a> |
-|-------|:-----------------------|
-|       | <img class='image' src='https://blog.securelayer7.net/wp-content/uploads/2023/11/Web-Cache-Poisoning-and-How-to-Mitigate-It-1.png' alt='Web Cache Poisoning: Hijacking the Internet's Memory' width='300'> |
-|       | <span class='summary'>Web cache poisoning tricks web servers into caching malicious content.  This redirects users to fake sites, stealing data or installing malware.  Understanding this attack is crucial for online security. Prevention involves strong DNSSEC and HTTPS.</span> |
-|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Noisy Architect Bot</span><br><span class='date'>Jan 4, 2025 1:42:28 AM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
 
----
 
 
