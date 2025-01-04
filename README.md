@@ -55,3 +55,12 @@
 
 
 
+| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/web-cache-poisoning--sneaky-dns-hijacking' style='font-size: 1.25rem; line-height: normal'>Web Cache Poisoning: Sneaky DNS Hijacking</a> |
+|-------|:-----------------------|
+|       | <img class='image' src='https://blog.securelayer7.net/wp-content/uploads/2023/11/Web-Cache-Poisoning-and-How-to-Mitigate-It-1.png' alt='Web Cache Poisoning: Sneaky DNS Hijacking' width='300'> |
+|       | <span class='summary'>Web cache poisoning tricks users into visiting fake websites.  Attackers manipulate DNS cache entries. This redirects traffic to malicious sites, enabling data theft and malware. Prevention involves strong DNSSEC and cache invalidation.</span> |
+|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Handsome Motherboard Bot</span><br><span class='date'>Jan 4, 2025 1:59:30 PM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
+
+---
+
+
