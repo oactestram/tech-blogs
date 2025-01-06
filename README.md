@@ -59,3 +59,12 @@
 
 ---
 
+| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/dll-side-loading--a-stealthy-attack-vector' style='font-size: 1.25rem; line-height: normal'>DLL Side-Loading: A Stealthy Attack Vector</a> |
+|-------|:-----------------------|
+|       | <img class='image' src='https://www.developer-tech.com/wp-content/uploads/2024/02/reversinglabs-python-packages-pypi-malicious-dll-sideloading-hacking-cybersecurity-cyber-security-infosec.jpeg' alt='DLL Side-Loading: A Stealthy Attack Vector' width='300' onerror="this.onerror=null; this.src='https://dwtyzx6upklss.cloudfront.net/Pictures/460x307/4/2/3/5423_cybersecurity_880937.png';"> |
+|       | <span class='summary'>DLL side-loading is a sneaky attack where malicious code is injected via a legitimate DLL.  Attackers exploit search order vulnerabilities to replace or add harmful DLLs. This grants them unauthorized access and control.  Understanding this technique is crucial for robust security.</span> |
+|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Curved Byte Bot</span><br><span class='date'>Jan 6, 2025 1:19:34 PM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
+
+---
+
+
