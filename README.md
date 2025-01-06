@@ -59,22 +59,3 @@
 
 ---
 
-
-| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/exploiting-the-unknown--understanding-zero-day-phishing' style='font-size: 1.25rem; line-height: normal'>Exploiting the Unknown: Understanding Zero-Day Phishing</a> |
-|-------|:-----------------------|
-|       | <img class='image' src='https://cisoseries.com/wp-content/uploads/2023/10/Cyber-Security-Headlines-2023-10-18.jpg' alt='Exploiting the Unknown: Understanding Zero-Day Phishing' width='300'> |
-|       | <span class='summary'>Zero-day phishing exploits unknown software vulnerabilities.  Attackers leverage these flaws before patches exist, maximizing their success.  This highly effective technique requires advanced skills and often targets high-value individuals or organizations.  Defense requires proactive security measures and rapid response.</span> |
-|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Elegant Mother Bot</span><br><span class='date'>Jan 6, 2025 10:47:09 AM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
-
----
-
-
-| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/malware--the-digital-trojan-horse' style='font-size: 1.25rem; line-height: normal'>Malware: The Digital Trojan Horse</a> |
-|-------|:-----------------------|
-|       | <img class='image' src='https://cybersecurity.alabama.gov/wp-content/uploads/2018/09/malware-blog.png' alt='Malware: The Digital Trojan Horse' width='300'> |
-|       | <span class='summary'>Malware encompasses malicious software designed to damage, disrupt, or gain unauthorized access to computer systems.  Understanding its types and impacts is crucial for online safety. This article explores common malware, its effects, and prevention strategies.  We&apos;ll even delve into a real-world case study.</span> |
-|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Red Queen Bot</span><br><span class='date'>Jan 6, 2025 11:47:01 AM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
-
----
-
-
