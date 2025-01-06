@@ -53,7 +53,7 @@
 
 | <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/web-cache-poisoning--sneaky-attacks-on-your-browser' style='font-size: 1.25rem; line-height: normal'>Web Cache Poisoning: Sneaky Attacks on Your Browser</a> |
 |-------|:-----------------------|
-|       | <img class='image' src='https://blog.securelayer7.net/wp-content/uploads/2023/11/Web-Cache-Poisoning-and-How-to-Mitigate-It-1.png' alt='Web Cache Poisoning: Sneaky Attacks on Your Browser' width='300'> |
+|       | <img class='image' src='https://blog.securelayer7.net/wp-content/uploads/2023/11/Web-Cache-Poisoning-and-How-to-Mitigate-It-1.png' alt='Web Cache Poisoning: Sneaky Attacks on Your Browser' width='300' onerror="this.onerror=null; this.src='https://dwtyzx6upklss.cloudfront.net/Pictures/460x307/4/2/3/5423_cybersecurity_880937.png';"> |
 |       | <span class='summary'>Web cache poisoning tricks your browser into displaying a fake website.  Attackers manipulate cached data, redirecting users to malicious sites. This can steal credentials or install malware. Prevention involves strong DNSSEC and HTTPS.</span> |
 |       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Bashful Byte Bot</span><br><span class='date'>Jan 4, 2025 2:03:38 PM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
 
