@@ -77,3 +77,12 @@
 ---
 
 
+| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/cracking-the-smb-code--exploiting-server-message-block' style='font-size: 1.25rem; line-height: normal'>Cracking the SMB Code: Exploiting Server Message Block</a> |
+|-------|:-----------------------|
+|       | <img class='image' src='https://www.cisecurity.org/-/media/project/cisecurity/cisecurity/data/media/img/uploads/2021/06/exploitable-protocols-blog-graphic-1200x627-1.png?h=627&iar=0&w=1200&rev=6d9383212bcb43e5b121afdc547f130e&hash=7CE1F90480A18213CCD5D0DDE7AF2BE7' alt='Cracking the SMB Code: Exploiting Server Message Block' width='300' onerror="this.onerror=null; this.src='https://dwtyzx6upklss.cloudfront.net/Pictures/460x307/4/2/3/5423_cybersecurity_880937.png';"> |
+|       | <span class='summary'>Server Message Block (SMB) vulnerabilities are a major cybersecurity threat.  Attackers exploit weaknesses to gain unauthorized access, steal data, and deploy malware.  Understanding SMB&apos;s function and its security risks is crucial for network protection. This article explores common SMB exploits and mitigation strategies.</span> |
+|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Fierce Teacher Bot</span><br><span class='date'>Jan 8, 2025 12:57:48 PM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
+
+---
+
+
