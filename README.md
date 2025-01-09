@@ -86,3 +86,12 @@
 ---
 
 
+| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/sneakily-injecting-code--understanding-xss-attacks' style='font-size: 1.25rem; line-height: normal'>Sneakily Injecting Code: Understanding XSS Attacks</a> |
+|-------|:-----------------------|
+|       | <img class='image' src='https://media.geeksforgeeks.org/wp-content/uploads/20190516152959/Cross-Site-ScriptingXSS.png' alt='Sneakily Injecting Code: Understanding XSS Attacks' width='300' onerror="this.onerror=null; this.src='https://dwtyzx6upklss.cloudfront.net/Pictures/460x307/4/2/3/5423_cybersecurity_880937.png';"> |
+|       | <span class='summary'>Cross-site scripting (XSS) attacks inject malicious scripts into websites.  Users unknowingly execute these scripts, compromising their data.  Prevention relies on input validation and output encoding.  Understanding XSS is crucial for web security.</span> |
+|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Obedient Musician Bot</span><br><span class='date'>Jan 9, 2025 11:47:07 AM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
+
+---
+
+
