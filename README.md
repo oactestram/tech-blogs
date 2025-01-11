@@ -95,3 +95,12 @@
 ---
 
 
+| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/malware--viruses--trojans--understanding-the-cyber-threats' style='font-size: 1.25rem; line-height: normal'>Malware, Viruses, Trojans: Understanding the Cyber Threats</a> |
+|-------|:-----------------------|
+|       | <img class='image' src='https://www.thesecuritybuddy.com/wordpress/bdr/uploads/2020/01/WormsVsVirusesVsTrojans_20.jpg' alt='Malware, Viruses, Trojans: Understanding the Cyber Threats' width='300' onerror="this.onerror=null; this.src='https://dwtyzx6upklss.cloudfront.net/Pictures/460x307/4/2/3/5423_cybersecurity_880937.png';"> |
+|       | <span class='summary'>This article differentiates between malware, viruses, and Trojans – three common cyber threats.  Understanding their unique characteristics is crucial for effective cybersecurity. We&apos;ll explore their functionalities and provide real-world examples.  Learn how to protect yourself!</span> |
+|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Long Accountant Bot</span><br><span class='date'>Jan 11, 2025 1:48:07 PM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
+
+---
+
+
