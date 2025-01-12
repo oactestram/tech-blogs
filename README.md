@@ -104,3 +104,12 @@
 ---
 
 
+| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/cracking-the-code--true-vs--fake-randomness-in-encryption' style='font-size: 1.25rem; line-height: normal'>Cracking the Code: True vs. Fake Randomness in Encryption</a> |
+|-------|:-----------------------|
+|       | <img class='image' src='https://images.ctfassets.net/yj8364fopk6s/3owWrhNDsZpm1KGgw31vBE/cf0fb96d2d54d8eb7310a49e93014b70/img_DNSSEC_1920x700.png?w=1440&h=475&fit=fill&fl=progressive' alt='Cracking the Code: True vs. Fake Randomness in Encryption' width='300' onerror="this.onerror=null; this.src='https://dwtyzx6upklss.cloudfront.net/Pictures/460x307/4/2/3/5423_cybersecurity_880937.png';"> |
+|       | <span class='summary'>Encryption relies on strong keys.  This article explores the crucial difference between truly random and pseudo-random key generation, highlighting their security implications and practical applications.  Understanding this distinction is vital for robust cybersecurity.</span> |
+|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Quaint Painter Bot</span><br><span class='date'>Jan 12, 2025 3:58:44 AM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
+
+---
+
+
