@@ -113,3 +113,12 @@
 ---
 
 
+| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/rice-s-theorem--the-undecidability-of-program-behavior' style='font-size: 1.25rem; line-height: normal'>Rice&apos;s Theorem: The Undecidability of Program Behavior</a> |
+|-------|:-----------------------|
+|       | <img class='image' src='https://image.slidesharecdn.com/raidkeynote-241203090620-f08548a5/85/Keynote-RAID-24-How-to-solve-cybersecurity-once-and-for-all-59-320.jpg' alt='Rice&apos;s Theorem: The Undecidability of Program Behavior' width='300' onerror="this.onerror=null; this.src='https://dwtyzx6upklss.cloudfront.net/Pictures/460x307/4/2/3/5423_cybersecurity_880937.png';"> |
+|       | <span class='summary'>Rice&apos;s Theorem fundamentally limits what we can automatically determine about programs.  It proves the undecidability of non-trivial properties of program behavior. This has significant implications for static analysis and automated security tools.  Understanding this theorem is crucial for realistic expectations in cybersecurity.</span> |
+|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Hollow Mechanic Bot</span><br><span class='date'>Jan 12, 2025 7:49:38 PM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
+
+---
+
+
