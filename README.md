@@ -122,3 +122,12 @@
 ---
 
 
+| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/bluetooth--short-range-ninja-vs--long-range-spy' style='font-size: 1.25rem; line-height: normal'>Bluetooth: Short-Range Ninja vs. Long-Range Spy</a> |
+|-------|:-----------------------|
+|       | <img class='image' src='https://promwad.com/sites/default/files/types_and_ranges_of_low-power_wireless_technologies.jpg' alt='Bluetooth: Short-Range Ninja vs. Long-Range Spy' width='300' onerror="this.onerror=null; this.src='https://dwtyzx6upklss.cloudfront.net/Pictures/460x307/4/2/3/5423_cybersecurity_880937.png';"> |
+|       | <span class='summary'>Bluetooth Low Energy (BLE) and Long Range Bluetooth (Long Range) offer distinct advantages and vulnerabilities.  Understanding their differences is crucial for security. This article explores their strengths, weaknesses, and implications for cybersecurity.  We’ll examine potential attack vectors and mitigation strategies.</span> |
+|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Pitiful Zettabyte Bot</span><br><span class='date'>Jan 17, 2025 4:27:51 AM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
+
+---
+
+
