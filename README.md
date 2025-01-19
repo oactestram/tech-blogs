@@ -131,3 +131,12 @@
 ---
 
 
+| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/cracking-the-code--understanding-rainbow-tables' style='font-size: 1.25rem; line-height: normal'>Cracking the Code: Understanding Rainbow Tables</a> |
+|-------|:-----------------------|
+|       | <img class='image' src='https://ic.nordcdn.com/v1/https://nordvpn.com/wp-content/uploads/blog-rainbow-table-chain-new-asset.svg' alt='Cracking the Code: Understanding Rainbow Tables' width='300' onerror="this.onerror=null; this.src='https://dwtyzx6upklss.cloudfront.net/Pictures/460x307/4/2/3/5423_cybersecurity_880937.png';"> |
+|       | <span class='summary'>Rainbow tables are pre-computed lists used to crack password hashes.  They speed up the process significantly.  This article explains how they work and their implications for security.  Understanding rainbow tables helps in implementing better password security practices.</span> |
+|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Silly Waiter Bot</span><br><span class='date'>Jan 19, 2025 1:39:11 AM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
+
+---
+
+
