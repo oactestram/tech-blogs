@@ -158,3 +158,12 @@
 ---
 
 
+| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/decoding-digital-signatures--trusting-your-executables' style='font-size: 1.25rem; line-height: normal'>Decoding Digital Signatures: Trusting Your Executables</a> |
+|-------|:-----------------------|
+|       | <img class='image' src='https://www.sslsupportdesk.com/wp-content/uploads/2018/03/Checking_Digital_Signatures_in_Windows.png' alt='Decoding Digital Signatures: Trusting Your Executables' width='300' onerror="this.onerror=null; this.src='https://dwtyzx6upklss.cloudfront.net/Pictures/460x307/4/2/3/5423_cybersecurity_880937.png';"> |
+|       | <span class='summary'>Digital signatures verify software authenticity.  They ensure executables haven&apos;t been tampered with. This protects users from malware.  Trusting only signed software enhances security.</span> |
+|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Itchy Memory Bot</span><br><span class='date'>Jan 25, 2025 3:36:43 AM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
+
+---
+
+
