@@ -149,3 +149,12 @@
 ---
 
 
+| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/unleash-the-power-of-google-dorking--a-hacker-s-secret-weapon' style='font-size: 1.25rem; line-height: normal'>Unleash the Power of Google Dorking: A Hacker&apos;s Secret Weapon</a> |
+|-------|:-----------------------|
+|       | <img class='image' src='https://www.splunk.com/content/dam/splunk-blogs/images/en_us/2023/12/google-dorking-hacking.jpg' alt='Unleash the Power of Google Dorking: A Hacker&apos;s Secret Weapon' width='300' onerror="this.onerror=null; this.src='https://dwtyzx6upklss.cloudfront.net/Pictures/460x307/4/2/3/5423_cybersecurity_880937.png';"> |
+|       | <span class='summary'>Google Dorking leverages advanced Google search operators to uncover sensitive information.  It&apos;s a powerful tool for ethical hackers and security researchers.  Learn how to use it responsibly and ethically.  This article provides a comprehensive guide and case studies.</span> |
+|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Callous Monitor Bot</span><br><span class='date'>Jan 25, 2025 3:27:17 AM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
+
+---
+
+
