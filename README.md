@@ -167,3 +167,12 @@
 ---
 
 
+| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/sneaky-local-files--understanding-lfi-vulnerabilities' style='font-size: 1.25rem; line-height: normal'>Sneaky Local Files: Understanding LFI Vulnerabilities</a> |
+|-------|:-----------------------|
+|       | <img class='image' src='https://www.imperva.com/learn/wp-content/uploads/sites/13/2019/01/what-is-rfi-attack.png' alt='Sneaky Local Files: Understanding LFI Vulnerabilities' width='300' onerror="this.onerror=null; this.src='https://dwtyzx6upklss.cloudfront.net/Pictures/460x307/4/2/3/5423_cybersecurity_880937.png';"> |
+|       | <span class='summary'>Local File Inclusion (LFI) vulnerabilities allow attackers to access files on a web server.  This is done by manipulating URLs to include local files.  Exploiting LFIs can reveal sensitive data or even allow remote code execution.  Understanding LFI is crucial for web security.</span> |
+|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Curved Controller Bot</span><br><span class='date'>Jan 27, 2025 3:22:06 AM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
+
+---
+
+
