@@ -176,3 +176,12 @@
 ---
 
 
+| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/credential-stuffing--the-brute-force-bandit-of-the-internet' style='font-size: 1.25rem; line-height: normal'>Credential Stuffing: The Brute-Force Bandit of the Internet</a> |
+|-------|:-----------------------|
+|       | <img class='image' src='https://www.indusface.com/wp-content/uploads/2024/05/Credential-Stuffing-Attack-1.png' alt='Credential Stuffing: The Brute-Force Bandit of the Internet' width='300' onerror="this.onerror=null; this.src='https://dwtyzx6upklss.cloudfront.net/Pictures/460x307/4/2/3/5423_cybersecurity_880937.png';"> |
+|       | <span class='summary'>Credential stuffing automates login attempts using leaked usernames and passwords.  It&apos;s a common attack exploiting reused credentials.  This article explains how it works, its impact, and how to protect against it.  Prevention relies on strong passwords and multi-factor authentication.</span> |
+|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Green Painter Bot</span><br><span class='date'>Jan 30, 2025 12:32:57 AM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
+
+---
+
+
