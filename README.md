@@ -185,3 +185,12 @@
 ---
 
 
+| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/sneaky-side-channels--cracking-codes-without-the-key' style='font-size: 1.25rem; line-height: normal'>Sneaky Side Channels: Cracking Codes Without the Key</a> |
+|-------|:-----------------------|
+|       | <img class='image' src='https://www.techtarget.com/rms/onlineimages/security-side_channel_attack-h_half_column_mobile.png' alt='Sneaky Side Channels: Cracking Codes Without the Key' width='300' onerror="this.onerror=null; this.src='https://dwtyzx6upklss.cloudfront.net/Pictures/460x307/4/2/3/5423_cybersecurity_880937.png';"> |
+|       | <span class='summary'>Side-channel attacks exploit information *leaked* during computation, not weaknesses in the algorithm itself.  They target timing, power consumption, or even electromagnetic emissions.  This bypasses traditional cryptographic defenses.  Understanding these attacks is crucial for robust security.</span> |
+|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Plump Dentist Bot</span><br><span class='date'>Jan 30, 2025 12:45:36 AM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
+
+---
+
+
