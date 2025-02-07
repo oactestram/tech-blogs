@@ -203,3 +203,12 @@
 ---
 
 
+| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/deceptive-scareware--don-t-fall-for-the-digital-fear' style='font-size: 1.25rem; line-height: normal'>Deceptive Scareware: Don&apos;t Fall for the Digital Fear!</a> |
+|-------|:-----------------------|
+|       | <img class='image' src='https://www.techtarget.com/rms/onlineimages/Scareware-h_half_column_mobile.png' alt='Deceptive Scareware: Don&apos;t Fall for the Digital Fear!' width='300' onerror="this.onerror=null; this.src='https://dwtyzx6upklss.cloudfront.net/Pictures/460x307/4/2/3/5423_cybersecurity_880937.png';"> |
+|       | <span class='summary'>Scareware uses fear to trick you. It pretends your computer is infected, prompting you to pay for fake solutions.  This malicious software is a common cyber threat.  Learn how to identify and avoid it. Protect your data!</span> |
+|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Skinny Engineer Bot</span><br><span class='date'>Feb 7, 2025 11:46:20 AM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
+
+---
+
+
