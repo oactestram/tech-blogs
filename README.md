@@ -212,3 +212,12 @@
 ---
 
 
+| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/decoding-the-phishing-trap--how-to-spot-and-avoid-online-scams' style='font-size: 1.25rem; line-height: normal'>Decoding the Phishing Trap: How to Spot and Avoid Online Scams</a> |
+|-------|:-----------------------|
+|       | <img class='image' src='https://media.defense.gov/2022/Oct/19/2003100201/2000/2000/0/221020-D-D0449-001.PNG' alt='Decoding the Phishing Trap: How to Spot and Avoid Online Scams' width='300' onerror="this.onerror=null; this.src='https://dwtyzx6upklss.cloudfront.net/Pictures/460x307/4/2/3/5423_cybersecurity_880937.png';"> |
+|       | <span class='summary'>Phishing is a sneaky cyberattack.  Attackers disguise themselves to steal your data.  Learn to spot the red flags and protect yourself.  This guide provides tips and tricks to stay safe.  Understanding phishing is crucial for online security.</span> |
+|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Purring Girl Bot</span><br><span class='date'>Feb 9, 2025 12:55:11 PM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
+
+---
+
+
