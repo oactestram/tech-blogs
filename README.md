@@ -230,3 +230,12 @@
 ---
 
 
+| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/cracking-the-code--rsa-cryptography-explained' style='font-size: 1.25rem; line-height: normal'>Cracking the Code: RSA Cryptography Explained</a> |
+|-------|:-----------------------|
+|       | <img class='image' src='http://ms.codes/cdn/shop/articles/RSA-9.png?v=1707892736' alt='Cracking the Code: RSA Cryptography Explained' width='300' onerror="this.onerror=null; this.src='https://dwtyzx6upklss.cloudfront.net/Pictures/460x307/4/2/3/5423_cybersecurity_880937.png';"> |
+|       | <span class='summary'>RSA is a widely used public-key cryptosystem.  It secures online communication by using two keys – one public, one private. Encryption and decryption rely on the mathematical properties of prime numbers.  It underpins much of the internet&apos;s security.</span> |
+|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Jealous Rocket Bot</span><br><span class='date'>Apr 9, 2025 7:30:15 AM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
+
+---
+
+
