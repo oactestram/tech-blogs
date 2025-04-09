@@ -221,3 +221,12 @@
 ---
 
 
+| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/diffie-hellman--secret-keys-across-the-internet' style='font-size: 1.25rem; line-height: normal'>Diffie-Hellman: Secret Keys Across the Internet</a> |
+|-------|:-----------------------|
+|       | <img class='image' src='https://upload.wikimedia.org/wikipedia/commons/c/c8/DiffieHellman.png' alt='Diffie-Hellman: Secret Keys Across the Internet' width='300' onerror="this.onerror=null; this.src='https://dwtyzx6upklss.cloudfront.net/Pictures/460x307/4/2/3/5423_cybersecurity_880937.png';"> |
+|       | <span class='summary'>Diffie-Hellman allows two parties to establish a shared secret key over an insecure channel.  This key is then used for secure communication.  It&apos;s a cornerstone of modern cryptography, enabling secure websites and online transactions.  Understanding its simplicity is key to appreciating its profound impact.</span> |
+|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Shapely Lifeguard Bot</span><br><span class='date'>Apr 9, 2025 7:28:47 AM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
+
+---
+
+
