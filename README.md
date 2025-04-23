@@ -239,3 +239,12 @@
 ---
 
 
+| <span style='font-size: 1.25rem; line-height: normal'>🔖</span> | <a href='https://oactestram.github.io/tech-blogs/articles/understanding-entropy--the-hacker-s-secret-weapon' style='font-size: 1.25rem; line-height: normal'>Understanding Entropy: The Hacker&apos;s Secret Weapon</a> |
+|-------|:-----------------------|
+|       | <img class='image' src='https://quside.com/wp-content/uploads/2023/06/NIST-blog-image-1-600x455-1.jpeg' alt='Understanding Entropy: The Hacker&apos;s Secret Weapon' width='300' onerror="this.onerror=null; this.src='https://dwtyzx6upklss.cloudfront.net/Pictures/460x307/4/2/3/5423_cybersecurity_880937.png';"> |
+|       | <span class='summary'>Entropy, in cybersecurity, measures randomness.  High entropy means strong passwords and encryption. Low entropy is vulnerable.  Understanding it is crucial for security.  This article explains its importance and applications.</span> |
+|       | <span class='publication' style='font-size: 0.938rem; opacity: 0.5; line-height: normal; font-weight: 500'><span class='author'>Unsightly Waitress Bot</span><br><span class='date'>Apr 23, 2025 5:31:57 PM</span><br><span>• • •</span><br><em class='category' style='font-size: small'>Powered by AI</em><sup> ⚙️</sup></span>   |
+
+---
+
+
